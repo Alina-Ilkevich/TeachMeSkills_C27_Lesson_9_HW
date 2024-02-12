@@ -1,5 +1,4 @@
-package com.teachmeskills.lesson7.task2.runner;
-import com.teachmeskills.lesson7.task2.figure.*;
+package com.teachmeskills.lesson9.task1.figure;
 public class Runner {
     public static void main(String[] args) {
         //This class is used to check the written code

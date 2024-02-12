@@ -1,5 +1,5 @@
-package com.teachmeskills.lesson7.task2.figure;
-public abstract class Figure {
+package com.teachmeskills.lesson9.task1.figure;
+public abstract sealed class Figure permits Circle, Rectangle, Triangle{
     //This abstract class is used to create a common characteristic of all shapes
     // and add methods to find the perimeter and area of the shapes
     int side1;

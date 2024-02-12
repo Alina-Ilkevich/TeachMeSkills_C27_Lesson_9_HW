@@ -1,6 +1,5 @@
-package com.teachmeskills.lesson7.task2.figure;
-import com.teachmeskills.lesson7.task2.figure.Figure;
-public class Rectangle extends Figure {
+package com.teachmeskills.lesson9.task1.figure;
+public final class Rectangle extends Figure {
     //This class is used to describe a rectangle and
     //describe methods for calculating the perimeter and area of the rectangle
     int side2;
